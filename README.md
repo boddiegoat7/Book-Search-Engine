@@ -1,6 +1,5 @@
 # Book-Search-Engine
 
-# Project 2 Take Note!
 
 
 ## TABLE OF CONTENTS
